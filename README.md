@@ -77,14 +77,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umakarthikeya&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=umakarthikeya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800&token=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" height="170"/>
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umakarthikeya&repo=Heart-Disease-Prediction&theme=tokyonight)](https://github.com/umakarthikeya/Heart-Disease-Prediction)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umakarthikeya&repo=Smart-Surveillance-System&theme=tokyonight)](https://github.com/umakarthikeya/Smart-Surveillance-System)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umakarthikeya&repo=Heart-Disease-Prediction&theme=tokyonight&token=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)](https://github.com/umakarthikeya/Heart-Disease-Prediction)
 
 ---
 
