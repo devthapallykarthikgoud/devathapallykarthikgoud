@@ -95,7 +95,7 @@
 - 🌍 Believe in **aliens 👽 and infinite possibilities**  
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devthapallykarthikgoud&hide_progress=true)
 ## 🎮 Play a Game
 <p align="center">
   <a href="https://<your-username>.github.io/game/">
