@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/AI%20For%20Everyone-FF5733?style=for-the-badge&logo=deeplearning&logoColor=white"/>
 </p>
 
-[![Holopin Badges](https://holopin.me/umakarthikeya)](https://holopin.io/@umakarthikeya)  
+ 
 
 ---
 
@@ -70,15 +70,14 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umakarthikeya&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=umakarthikeya&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devthapallykarthikgoud&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=devthapallykarthikgoud&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umakarthikeya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800&token=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" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=devthapallykarthikgoud&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
