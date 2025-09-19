@@ -82,9 +82,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=umakarthikeya&repo=Heart-Disease-Prediction&theme=tokyonight&token=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)](https://github.com/umakarthikeya/Heart-Disease-Prediction)
-
 ---
 
 ## 🎮 Fun Facts  
