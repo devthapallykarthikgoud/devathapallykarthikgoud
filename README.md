@@ -85,7 +85,7 @@
 
 ## 🎮 Play a Game
 <p align="center">
-  <a href="https://devathapallykarthikgoud.github.io/game/">
+  <a href="https://devthapallykarthikgoud.github.io/game/">
     <img src="https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
   </a>
 </p>
