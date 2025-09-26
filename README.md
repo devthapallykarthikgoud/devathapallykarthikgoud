@@ -78,7 +78,8 @@
 - 🎵 I learn faster with **music in the background**  
 - 🦾 Love **balancing fitness & coding**  
 - 🌍 I can speak and write **6 languages++**: Arabic, Urdu, Telugu, Tamil, English, and Hindi.  
-- 💻 I also speak the languages of computers 🤓 → Python, C, Java, JavaScript, SQL...   
+- 💻 I also speak the languages of computers 🤓 → Python, C, Java, JavaScript, SQL...
+- ✨ I’m **comfortable in all these languages**, which means I can stay, adapt, and connect almost anywhere — still wondering *what percentage of the world I can survive in!* 🌎 
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devthapallykarthikgoud&hide_progress=true&layout=compact)
