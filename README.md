@@ -77,8 +77,8 @@
 ## 🎮 Fun Facts  
 - 🎵 I learn faster with **music in the background**  
 - 🦾 Love **balancing fitness & coding**  
-- 🐦 I own a cute **conure bird named Sita**  
-- 🌍 Believe in **aliens 👽 and infinite possibilities**  
+- 🌍 I can speak and write **6 languages++**: Arabic, Urdu, Telugu, Tamil, English, and Hindi.  
+- 💻 I also speak the languages of computers 🤓 → Python, C, Java, JavaScript, SQL...   
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devthapallykarthikgoud&hide_progress=true&layout=compact)
