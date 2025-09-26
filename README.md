@@ -92,6 +92,9 @@
   <a href="https://devthapallykarthikgoud.github.io/snakegame">
     <img src="https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=gamepad&logoColor=white"/>
   </a>
+  <a href="https://devthapallykarthikgoud.github.io/alien_shooting_game">
+    <img src="https://img.shields.io/badge/Play-shooting-yellow?style=for-the-badge&logo=gamepad&logoColor=white"/>
+  </a>
 </p>
 
 
