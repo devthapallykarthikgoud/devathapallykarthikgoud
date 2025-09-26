@@ -89,7 +89,7 @@
   <a href="https://devthapallykarthikgoud.github.io/game/">
     <img src="https://img.shields.io/badge/Play-Tetris-blue?style=for-the-badge&logo=gamepad&logoColor=white"/>
   </a>
-  <a href="https://devthapallykarthikgoud.github.io/snakegame/">
+  <a href="https://devthapallykarthikgoud.github.io/snakegame">
     <img src="https://img.shields.io/badge/Play-Snake-green?style=for-the-badge&logo=gamepad&logoColor=white"/>
   </a>
 </p>
